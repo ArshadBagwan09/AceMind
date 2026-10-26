@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.9",
+    "mammoth": "^1.13.0",
+    "pdfjs-dist": "^6.4.299",
     "react-router-dom": "^7.18.4"
   }
 }
